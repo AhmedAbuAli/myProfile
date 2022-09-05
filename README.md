@@ -28,4 +28,12 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabuali&" alt="ahmedabuali" /></p>
 <br>
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+ <img src ="https://github.com/AhmedAbuAli/AhmedAbuAli/blob/output/github-contribution-grid-snake.gif">
+</p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabuali" alt="ahmedabuali" /></a> </p>
