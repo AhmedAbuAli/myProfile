@@ -3,11 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Abu-Ali</h1>
-<h3 align="center">A passionate Frontend developer from Jordan</h3>
-
-
-
-- 🌱 I’m currently learning **BacK-End Development**
+<h3 align="center">Automation test engineer</h3>
 
 - 📫 How to reach me **ahmedmarwan105@gmail.com**
 
